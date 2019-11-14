@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2bd376e-7340-4a64-9253-8fdef19ce0d1" name="Default Changelist" comment="" />
+    <list default="true" id="f2bd376e-7340-4a64-9253-8fdef19ce0d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,7 @@
   <component name="ProjectId" id="1TWMppJx0KM4YCfVWBs7uCLOqEW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hello" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.calculator">
+  <component name="RunManager" selected="Python.practice5">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="day6" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,8 +145,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calculator" />
         <item itemvalue="Python.practice5" />
+        <item itemvalue="Python.calculator" />
         <item itemvalue="Python.practice6" />
         <item itemvalue="Python.practice4" />
         <item itemvalue="Python.practice2" />

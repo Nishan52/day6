@@ -5,8 +5,8 @@ if name.isalpha()==True and len(name)>5:
     print("Your are Successfully Registered")
 else:
     sys.exit("OOPS! not reristered. TRY AGAIN")
-run_again="yes"
-while run_again=="yes":
+calcagain="yes"
+while calcagain=="yes":
     print("Select operation")
     print("1.Add           2.Subtract")
     print("3.Multiply      4.Modulous")
